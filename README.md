@@ -8,5 +8,5 @@ Test Technical Bootcamp DumbWays.id
 - soal No.6 & 7 telat di-commit (waktu keterlambatan dapat dicek)
 - soal No.7 dapat dijalankan di localhost dengan terlebih dahulu mengekspor file dw-test.sql.zip melalui phpmyadmin
 <br>
-screenshot soal No.7:
-![](ss.png)
+
+
