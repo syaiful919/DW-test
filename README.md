@@ -7,6 +7,7 @@ Test Technical Bootcamp DumbWays.id
 <br></br>
 - soal No.6 & 7 telat di-commit (waktu keterlambatan dapat dicek)
 - soal No.7 dapat dijalankan di localhost dengan terlebih dahulu mengekspor file dw-test.sql.zip melalui phpmyadmin
-
-
+<br></br>
+<p align="center">screenshot soal No.7</p>
+<img src="ss.png">
 
